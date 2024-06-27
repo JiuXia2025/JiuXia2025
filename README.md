@@ -25,8 +25,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jiuxia2025&" alt="jiuxia2025" /></p>
 <h3 align="left">Personal Channel</h3>
-- Ask me about anything an everything.
 
 - Read my blogs: [JiuXia Blog](https://blog.inekoxia.com).
 
-- Subscribe:- [JiuXia2025 (bilibili)](https://space.bilibili.com/354206318).
+- Subscribe (bilibili): [JiuXia2025](https://space.bilibili.com/354206318).
