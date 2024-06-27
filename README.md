@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm JiuXia2025</h2>
+<h3 align="center">Hi 👋, I'm JiuXia2025</h3>
 <h5 align="center">很高兴认识你，我是JiuXia2025，可以叫我九夏</h5>
 
 - 🎯 Studying..
@@ -26,5 +26,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jiuxia2025&" alt="jiuxia2025" /></p>
 <h3 align="left">Personal Channel</h3>
 - Ask me about anything an everything.
+
 - Read my blogs: [JiuXia Blog](https://blog.inekoxia.com).
+
 - Subscribe:- [JiuXia2025 (bilibili)](https://space.bilibili.com/354206318).
