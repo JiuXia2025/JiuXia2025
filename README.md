@@ -1,7 +1,7 @@
 <h3 align="center">Hi 👋, I'm JiuXia2025</h3>
 <h5 align="center">很高兴认识你，我是JiuXia2025，可以叫我九夏</h5>
 
-- 🎯 Studying..
+- 🎯 An unknown cloud computing student who is still working hard for his dream...
 
 
 <h3 align="left">Connect with me</h3>
