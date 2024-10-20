@@ -26,8 +26,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jiuxia2025&" alt="jiuxia2025" /></p>
 <h3 align="left">Personal Channel</h3>
 
-- Personal Page（猫九夏）: [iNekoXia](https://www.inekoxia.com).
+- Personal Page: [iNekoXia](https://www.inekoxia.com).
 
-- Read my blogs（九夏小站）: [JiuXia Blog](https://blog.inekoxia.com).
+- Read my blogs: [JiuXia Blog](https://blog.inekoxia.com).
 
 - Subscribe (bilibili): [JiuXia2025](https://space.bilibili.com/354206318).
