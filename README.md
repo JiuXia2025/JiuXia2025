@@ -11,7 +11,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/@JiuXia2025" target="_blank">
-<img src=https://img.shields.io/badge/x-%2300acee.svg?&style=for-the-badge&logo=x&logoColor=white alt=x style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/x-%2324292e.svg?&style=for-the-badge&logo=x&logoColor=white alt=x style="margin-bottom: 5px;" />
 </a>  
 </div>  
 </p>
