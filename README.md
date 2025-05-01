@@ -3,16 +3,6 @@
 
 - 🎯 正在学习Golang+DevOps，尝试进入开发领域
 
-
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<div align="center">
-<a href="https://github.com/JiuXia2025" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-</div>  
-</p>
-
 <h3 align="left">Personal Channel</h3>
 
 - Personal Page: [iNekoXia](https://www.inekoxia.com).
