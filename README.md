@@ -16,9 +16,9 @@
 [![My Skills](https://skillicons.dev/icons?i=golang,java,python,php,vue,electron,npm,html,js,androidstudio,mysql,redis,linux,bash,vscode,git,postman,vim,raspberrypi,vercel,ansible,nginx,docker,kubernetes,jenkins,kafka,grafana,prometheus,elasticsearch,openstack&theme=light)](https://skillicons.dev)
 
 <h3 align="left">Github Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiuxia2025&show_icons=true&locale=en&layout=compact" alt="jiuxia2025" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jiuxia2025&show_icons=true&locale=en" alt="jiuxia2025" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jiuxia2025&show_icons=true&locale=en" alt="jiuxia2025" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiuxia2025&show_icons=true&locale=en&layout=compact" alt="jiuxia2025" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jiuxia2025&" alt="jiuxia2025" /></p>
 
