@@ -13,7 +13,7 @@
 
 <h3 align="left">Languages and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=golang,java,python,php,vue,electron,html,js,androidstudio,mysql,redis,linux,bash,vscode,git,vim,raspberrypi,ansible,nginx,docker,kubernetes,jenkins,kafka,grafana,prometheus,elasticsearch,openstack&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=golang,java,python,php,vue,electron,npm,html,js,androidstudio,mysql,redis,linux,bash,vscode,git,vim,raspberrypi,vercel,ansible,nginx,docker,kubernetes,jenkins,kafka,grafana,prometheus,elasticsearch,openstack&theme=light)](https://skillicons.dev)
 
 <h3 align="left">Github Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiuxia2025&show_icons=true&locale=en&layout=compact" alt="jiuxia2025" /></p>
